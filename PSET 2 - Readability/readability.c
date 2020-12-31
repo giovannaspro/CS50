@@ -1,3 +1,5 @@
+#Implement a program that computes the approximate grade level needed to comprehend some text.
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
