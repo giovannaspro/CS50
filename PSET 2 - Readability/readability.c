@@ -57,6 +57,7 @@ int count_sentences(string text)
     }
     return n_sentence;
 }
+
 /*Gives the result the problem wants*/
 /*Do the index*/
 /*Gives de answer*/
